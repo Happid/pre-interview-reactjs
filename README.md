@@ -11,6 +11,10 @@ npm install --save-dev --save-exact prettier
 npm i react-router-dom
 ```
 
+```terminal
+npm install tailwindcss @tailwindcss/vite
+```
+
 
 ## Mini Project
 1. CRUD Ecommerce (Search By, Sort, Pagination, Auth Guard, JWT, Unit Test, Form Validation)
